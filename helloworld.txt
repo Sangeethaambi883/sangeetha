@@ -1,1 +1,5 @@
-version control is a system that records changes to a file. 
+version control is a system that records changes to a file.
+local version control system
+centralized version control system
+distributed version control system
+ 
